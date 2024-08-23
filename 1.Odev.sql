@@ -13,7 +13,7 @@ WHERE rental_rate =0.99 AND (replacement_cost= 12.99 OR replacement_cost =28.99)
 
 --4.Uygulama
 SELECT last_name 
-FROM customer first_name = 'Mary';
+FROM customer WHERE first_name = 'Mary';
  
 --5.Uygulama
 SELECT * 
