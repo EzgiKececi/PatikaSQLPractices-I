@@ -1,0 +1,1 @@
+# PatikaWeek6SQLPractice
